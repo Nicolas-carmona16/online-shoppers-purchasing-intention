@@ -1,9 +1,13 @@
 # online-shoppers-purchasing-intention
 
+## Integrantes
+- Camilo Benavides Ramirez
+- Nicolas Carmona Cardona
+- Brayan Santiago Ramirez Silva
+
 ## Contenido
 - `online_shoppers_analysis.ipynb`: notebook con el análisis.
 - `dataset/online_shoppers.csv`: datos usados en el notebook.
-
 ## Instrucciones
 
 1) Clonar el repositorio
