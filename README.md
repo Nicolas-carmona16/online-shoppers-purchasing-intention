@@ -5,9 +5,16 @@
 - Nicolas Carmona Cardona
 - Brayan Santiago Ramirez Silva
 
-## Contenido
-- `online_shoppers_analysis.ipynb`: notebook con el análisis.
+## Video
+https://youtu.be/mAPhAPOVTHs
+
+## Contenido y Orden
 - `dataset/online_shoppers.csv`: datos usados en el notebook.
+- `online_shoppers_analysis.ipynb`: notebook con el análisis.
+- `online_shoppers_train.ipynb`: notebook con el entrenamiento de modelos.
+- `dimensionality_reduction.ipynb`: notebook con reducción de dimensionalidad.
+- `dimensionality_reduction_optimization.ipynb`: notebook con optimización de reducción de dimensionalidad.
+
 ## Instrucciones
 
 1) Clonar el repositorio
